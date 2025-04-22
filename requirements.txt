@@ -37,7 +37,7 @@ opt_einsum
 packaging
 pandas
 pillow
-protobuf
+protobuf==3.20.*
 pyparsing
 python-dateutil
 pyttsx3
