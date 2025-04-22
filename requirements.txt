@@ -31,8 +31,7 @@ matplotlib
 ml_dtypes
 numpy
 oauthlib
-opencv-python
-opencv-contrib-python
+opencv-python-headless
 opt_einsum
 packaging
 pandas
@@ -47,10 +46,10 @@ reportlab
 requests
 requests-oauthlib
 rsa
+scikit-learn
 scipy
 six
 streamlit
-scikit-learn
 tenacity
 tensorboard
 tensorboard-data-server
