@@ -1,5 +1,5 @@
 absl-py
-altair
+altair==4.0.1
 attrs
 blinker
 cachetools
