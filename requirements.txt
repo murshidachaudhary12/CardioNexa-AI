@@ -50,6 +50,7 @@ rsa
 scipy
 six
 streamlit
+scikit-learn
 tenacity
 tensorboard
 tensorboard-data-server
